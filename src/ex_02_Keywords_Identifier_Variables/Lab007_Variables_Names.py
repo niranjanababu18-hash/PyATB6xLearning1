@@ -1,0 +1,9 @@
+pi=3.14
+print(type(pi))
+a=3
+print(type(a))
+name="Neenu"
+print(type(name))
+complex_number=2+3j
+print(complex_number.real)
+print(type(complex_number))

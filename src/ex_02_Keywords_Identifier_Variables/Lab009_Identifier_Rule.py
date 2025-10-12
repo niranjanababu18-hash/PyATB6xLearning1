@@ -1,0 +1,2 @@
+long_var_name_iscreated_here="Niranjana Babu"
+print(long_var_name_iscreated_here)

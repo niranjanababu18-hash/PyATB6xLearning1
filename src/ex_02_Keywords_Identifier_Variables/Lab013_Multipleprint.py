@@ -1,0 +1,1 @@
+print("Niranajana","Babu",30)
