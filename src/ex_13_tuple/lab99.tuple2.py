@@ -1,0 +1,13 @@
+shopping_list=(1,2,3)
+shopping_list=list(shopping_list)
+shopping_list=tuple(shopping_list)
+#print(shopping_list[0])
+#to update tuple.convert to list update and then convert back to tuple
+t=tuple()
+print(t)
+t=list(t)
+t.insert(0,'a')
+t=tuple(t)
+print(t)
+tup=((1,2,3),(4,5,6),(7,8,9))
+print(tup[1][2])
