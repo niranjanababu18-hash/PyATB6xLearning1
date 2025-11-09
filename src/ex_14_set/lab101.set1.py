@@ -1,4 +1,4 @@
-#set is an unordered collection of data immutable,iterable not allowing duplicates
+#set is an unordered collection of datamutable,iterable not allowing duplicates
 #curly braces
 set1={1,2,3,1,4,5,6,6,7,True}
 print(set1)
