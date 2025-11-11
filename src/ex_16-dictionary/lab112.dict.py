@@ -1,3 +1,4 @@
+#unordered mutable indezed collection of data
 dict={
     "name":"niranjana",
     "age":34,
