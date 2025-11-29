@@ -1,3 +1,4 @@
+#exception is a class extends here
 class invalidageError(Exception):
     pass
 def validate(age):
